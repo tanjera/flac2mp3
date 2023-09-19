@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "flac2mp3": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Z:\\Our Media\\Music\\Library\""
+    }
+  }
+}
