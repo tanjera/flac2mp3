@@ -36,6 +36,8 @@ namespace flac2mp3 {
 
             proc.Start();
             proc.WaitForExit();
+
+            flac.Delete();
         }
     }
 }
